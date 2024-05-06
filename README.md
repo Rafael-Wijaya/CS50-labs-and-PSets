@@ -22,7 +22,7 @@ Jika menemukan kesalahan dalam repositori ini atau ingin berkontribusi dalam mel
 ## Author
 <h2 align="center">Rafael Marchel Darma Wijaya</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vylon-kleio&label=Profile%20views&color=0e75b6&style=flat" alt="vylon-kleio" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rafael-Wijaya&label=Profile%20views&color=0e75b6&style=flat" alt="Rafael-Wijaya" /> </p>
 
 - 📫 How to reach me **rafaelmarchel.dw@gmail.com**
 
@@ -38,4 +38,4 @@ Jika menemukan kesalahan dalam repositori ini atau ingin berkontribusi dalam mel
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/KleioV"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="KleioV" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vylon-kleio&show_icons=true&locale=en" alt="vylon-kleio" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rafael-Wijaya&show_icons=true&locale=en" alt="Rafael-Wijaya" /></p>
